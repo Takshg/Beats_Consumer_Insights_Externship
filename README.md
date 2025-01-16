@@ -33,7 +33,6 @@ The repository is organized as follows:
 Beats_Consumer_Insights/
 ├── data/                   # Raw and mock datasets
 ├── notebooks/              # Jupyter notebooks for EDA and analysis
-├── src/                    # Python scripts for data cleaning and processing
 ├── README.md               # Project overview and usage instructions
 ├── requirements.txt        # Python dependencies
 └── LICENSE                 # License information
