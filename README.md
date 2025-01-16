@@ -97,12 +97,6 @@ Note: The steps in the script applies to the real dataset and will not work on t
 jupyter data/JSON_reviews_to_dataframe.ipynb
 ```
 
-### Perform Sentiment Analysis
-Run the sentiment analysis script to view generated insights:
-```bash
-python src/sentiment_analysis.py
-```
-
 ### Generate Visualizations
 Jupyter notebooks in the `notebooks/` folder contain all exploratory data analysis (EDA) and visualizations. Open them using:
 ```bash
