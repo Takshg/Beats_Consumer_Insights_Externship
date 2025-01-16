@@ -44,7 +44,7 @@ Beats_Consumer_Insights/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<takshg>/Beats_Consumer_Insights_Externship.git
+git clone https://github.com/takshg/Beats_Consumer_Insights_Externship.git
 cd Beats_Consumer_Insights_Externship
 ```
 
